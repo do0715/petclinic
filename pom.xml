@@ -524,9 +524,9 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
-                <jdbc.url>jdbc:mysql://terraform-20211130014410938700000001.cjp8ovdioucf.ap-northeast-2.rds.amazonaws.com:3306/petclinic?useUnicode=true</jdbc.url>
+                <jdbc.url>jdbc:mysql://petclinic.cgwzwvret31j.ap-northeast-2.rds.amazonaws.com:3306/petclinic?useUnicode=true</jdbc.url>
                 <jdbc.username>admin</jdbc.username>
-                <jdbc.password>cogus1234%</jdbc.password>
+                <jdbc.password>bespin0!</jdbc.password>
             </properties>
             <dependencies>
                 <dependency>
